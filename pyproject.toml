@@ -3,7 +3,7 @@ name = "fastapiproject"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "Дмитро",email = "dima110308r@gmail.com"}
+    {name = "Bogdana",email = "dna60224@gmail.com"}
 ]
 requires-python = ">=3.12"
 dependencies = [
