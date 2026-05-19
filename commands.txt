@@ -1,0 +1,13 @@
+git checkout dev
+
+docker compose up --build -d
+
+docker ps
+
+docker exec -it fastapiproject-web-1 sh
+
+pip list
+
+exit
+
+docker compose down
